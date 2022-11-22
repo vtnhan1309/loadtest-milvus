@@ -1,0 +1,10 @@
+scripts/
+logs/
+notes/
+.vscode/
+.metals/
+
+
+__pycache__/
+*.py[cod]
+*$py.class
